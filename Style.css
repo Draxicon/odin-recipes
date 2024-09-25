@@ -1,0 +1,36 @@
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #fff3bf;
+ 
+}
+
+a:link
+{
+    color: rgb(190, 77, 52);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    font-size: 150%;
+}
+
+a.Spag-Link:link, a.Dodo-Link:link, a.Fish-Link:link
+{
+    font-size: 18px;
+}
+a.Spag-Link:hover, a.Dodo-Link:hover, a.Fish-Link:hover
+{
+    text-decoration: underline;
+    font-size: 120%;
+}
+
+
+.JollofTitle, .FishTitle, .DodoTitle, .MainTitle
+{
+    text-align: center;
+    
+}
